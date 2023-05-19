@@ -10,8 +10,15 @@ import {
 import { CardProps } from "../../types/card";
 
 export const Card = (props: CardProps) => {
-  const { id, question, preCondition, type, deck, deckCount, colorTheme } =
-    props;
+  const {
+    id,
+    question,
+    preCondition,
+    type,
+    name,
+    count,
+    colorTheme = "gray",
+  } = props;
 
   return (
     <ChakraCard
@@ -22,7 +29,7 @@ export const Card = (props: CardProps) => {
     >
       <CardHeader display="flex" alignItems="center" pb={4}>
         <Text fontSize="xl" lineHeight={1} color="gray.300">
-          {id} / {deckCount}
+          {id} / {count}
         </Text>
         <Text
           fontSize="xl"
@@ -31,7 +38,7 @@ export const Card = (props: CardProps) => {
           fontWeight="700"
           textTransform="uppercase"
         >
-          {deck}
+          {name}
         </Text>
       </CardHeader>
       <CardBody>

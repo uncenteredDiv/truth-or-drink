@@ -1,22 +1,27 @@
-[
-    {
-        "question": "Will we be friends in ten years?",
-        "type": "Straight up"
-    },
-    {
-        "question": "What personal demonare you in denial about?",
-        "type": "This round's on me"
-    },
-    {
-        "question": "What’s something you think that I get away with, but that you never could?",
-        "type": "Straight up"
-    },
-    {
-        "question": "What is something you like about me that other people just don’t appreciate?",
-        "type": "Straight up"
-    },
-    {
-        "question": "Tell us about a time you set something in motion and left the fallout for others to deal with.",
-        "type": "Straight up"
-    }
-]
+{
+    "name": "On the Rocks",
+    "slug": "on-the-rocks",
+    "colorTheme": "cyan",
+    "data": [
+        {
+            "question": "Will we be friends in ten years?",
+            "type": "Straight up"
+        },
+        {
+            "question": "What personal demonare you in denial about?",
+            "type": "This round's on me"
+        },
+        {
+            "question": "What’s something you think that I get away with, but that you never could?",
+            "type": "Straight up"
+        },
+        {
+            "question": "What is something you like about me that other people just don’t appreciate?",
+            "type": "Straight up"
+        },
+        {
+            "question": "Tell us about a time you set something in motion and left the fallout for others to deal with.",
+            "type": "Straight up"
+        }
+    ]
+}

@@ -3,7 +3,8 @@ export type CardProps = {
   question: string;
   preCondition?: string;
   type: string;
-  deck: string;
-  deckCount: number;
+  name: string;
+  slug: string;
+  count: number;
   colorTheme: string;
 };

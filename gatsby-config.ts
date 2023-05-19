@@ -11,6 +11,18 @@ const config: GatsbyConfig = {
   graphqlTypegen: true,
   plugins: [
     {
+      resolve: `gatsby-transformer-json`,
+      options: {
+        typeName: "JsonFile",
+      },
+    },
+    {
+      resolve: `gatsby-source-filesystem`,
+      options: {
+        path: `./src/data/`,
+      },
+    },
+    {
       resolve: "@chakra-ui/gatsby-plugin",
       options: {
         /**

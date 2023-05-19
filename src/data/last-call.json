@@ -1,14 +1,19 @@
-[
-    {
-        "question": "What problem do I think I’m successfully hiding from everyone, but is actually completely obvious?",
-        "type": "Straigt up"
-    },
-    {
-        "question": "Tell us about a loophole you exploited until you got caught.",
-        "type": "Make it double"
-    },
-    {
-        "question": "How many kids is too many kids? How many will you have?",
-        "type": "Straigt up"
-    }
-]
+{
+    "name": "Last Call",
+    "slug": "last-call",
+    "colorTheme": "pink",
+    "data": [
+        {
+            "question": "What problem do I think I’m successfully hiding from everyone, but is actually completely obvious?",
+            "type": "Straigt up"
+        },
+        {
+            "question": "Tell us about a loophole you exploited until you got caught.",
+            "type": "Make it double"
+        },
+        {
+            "question": "How many kids is too many kids? How many will you have?",
+            "type": "Straigt up"
+        }
+    ]
+}
