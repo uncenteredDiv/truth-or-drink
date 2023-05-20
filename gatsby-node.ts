@@ -16,6 +16,7 @@ export const createPages: GatsbyNode["createPages"] = async ({
           slug
           colorTheme
           data {
+            preCondition
             question
             type
           }

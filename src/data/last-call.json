@@ -1,0 +1,400 @@
+{
+  "name": "Last Call",
+  "slug": "last-call",
+  "colorTheme": "pink",
+  "sortOrder": 30,
+  "data": [
+    {
+      "question": "What problem do I think I'm successfully hiding from everyone, but is actually completely obvious?",
+      "type": "Straight up"
+    },
+    {
+      "question": "Tell us about a loophole you exploited until you got caught.",
+      "type": "Make it double"
+    },
+    {
+      "question": "How many kids is too many kids? How many will you have?",
+      "type": "Straight up"
+    },
+    {
+      "question": "What animal am I most like? Describe how this species and I are similar.",
+      "type": "Straight up"
+    },
+    {
+      "question": "How comfortable are we with one another? Give us an example.",
+      "type": "Straight up"
+    },
+    {
+      "question": "Is there a seemingly normal rule of society that you have never, ever followed?",
+      "type": "This round's on me"
+    },
+    {
+      "question": "If someone were interested in dating me, what story would you tell them to see if they can handle me?",
+      "type": "Straight up"
+    },
+    {
+      "question": "If we were dying of thirst, how would we ration the last bottle of water between all of us here?",
+      "type": "Straight up"
+    },
+    {
+      "question": "What's the meanest thing you've seen me do?",
+      "type": "Make it double"
+    },
+    {
+      "question": "Have you ever pretended to be someone else online? Who is this alter ego, and were you ever found out?",
+      "type": "Straight up"
+    },
+    {
+      "question": "Am I your type? What would I have to do to become more your type? I'm not hitting on you, we're just talking.",
+      "type": "Straight up"
+    },
+    {
+      "question": "What is something you're struggling with that we don't know about?",
+      "type": "Straight up"
+    },
+    {
+      "question": "What do I think I'm great at, but I'm actually thoroughly average at?",
+      "type": "Straight up"
+    },
+    {
+      "question": "What's the most terrible thing you've ever done for money?",
+      "type": "This round's on me"
+    },
+    {
+      "question": "Have you ever intentionally scammed someone or misled them for personal gain?",
+      "type": "Straight up"
+    },
+    {
+      "question": "What am I stubborn about that's making my life miserable?",
+      "type": "Straight up"
+    },
+    {
+      "question": "Your Google history has been made public. Which search is the hardest to explain?",
+      "type": "Make it double"
+    },
+    {
+      "question": "Have you ever talked about me behind my back? If yes, what did you say?",
+      "type": "Straight up"
+    },
+    {
+      "question": "Name a time you wished you could have helped me. What would you have done?",
+      "type": "Straight up"
+    },
+    {
+      "question": "Tell us about a time you deliberately did something to provoke your partner.",
+      "type": "Straight up"
+    },
+    {
+      "question": "What advice do I need but don't want to hear?",
+      "type": "Make it double"
+    },
+    {
+      "question": "Are there certain situations with me you avoid on purpose?",
+      "type": "Straight up"
+    },
+    {
+      "question": "When was the last time you lied to me? What was the lie?",
+      "type": "Straight up"
+    },
+    {
+      "question": "Would Adult Me be attractive to Teenage You?",
+      "type": "Straight up"
+    },
+    {
+      "question": "What's the most self-serving thing you've ever done?",
+      "type": "This round's on me"
+    },
+    {
+      "question": "Have you ever had a pregnancy scare?",
+      "type": "Straight up"
+    },
+    {
+      "question": "Name a friend of mine you aren't the biggest fan of. Is there anything you think I should reconsider about them?",
+      "type": "Straight up"
+    },
+    {
+      "question": "When do I demand the most attention?",
+      "type": "Straight up"
+    },
+    {
+      "question": "What's your greatest moment of telling someone off? Can you reenact it for us?",
+      "type": "Make it double"
+    },
+    {
+      "question": "Have you ever had to apologize to someone for my behavior? Did the person accept the apology?",
+      "type": "Straight up"
+    },
+    {
+      "question": "Describe a time you lost a little bit of respect for me.",
+      "type": "Straight up"
+    },
+    {
+      "question": "What's a fact I can never seem to remember about you?",
+      "type": "Straight up"
+    },
+    {
+      "question": "What's something that's definitely not my problem, but somehow always becomes my problem?",
+      "type": "Straight up"
+    },
+    {
+      "question": "Have I ever done anything you think should have gotten me shitcanned?",
+      "type": "Straight up"
+    },
+    {
+      "question": "Have you ever pooped yourself as an adult?",
+      "type": "This round's on me"
+    },
+    {
+      "question": "What's the angriest you've ever been at me? What resolved it?",
+      "type": "Straight up"
+    },
+    {
+      "question": "What's something you're currently doing that you'll stop if and only if you get caught?",
+      "type": "Make it double"
+    },
+    {
+      "question": "Have you ever been genuinely scared of me?",
+      "type": "Straight up"
+    },
+    {
+      "question": "What would you never, ever want my help with?",
+      "type": "Straight up"
+    },
+    {
+      "question": "If we met up again after not seeing each other for five years, what's the first thing we'd do together?",
+      "type": "Straight up"
+    },
+    {
+      "question": "What's the shallowest reason you've ever swiped left on a dating profile?",
+      "type": "Make it double"
+    },
+    {
+      "question": "What's a bad habit that you picked up from me?",
+      "type": "Straight up"
+    },
+    {
+      "question": "How's my drug and alcohol use? Do you think I could stand to do more, or less?",
+      "type": "Straight up"
+    },
+    {
+      "question": "What will you never understand about me?",
+      "type": "This round's on me"
+    },
+    {
+      "question": "What's something you learned from watching someone else fail spectacularly?",
+      "type": "Straight up"
+    },
+    {
+      "question": "What's the most annoying thing I do without realizing it?",
+      "type": "Straight up"
+    },
+    {
+      "question": "If you found out I'd been embezzling from work, would you rat me out?",
+      "type": "Straight up"
+    },
+    {
+      "question": "Have you ever stabbed someone in the back or actively plotted against them?",
+      "type": "Straight up"
+    },
+    {
+      "question": "What's the weirdest thing about me?",
+      "type": "This round's on me"
+    },
+    {
+      "question": "What's the closest we've ever come to parting ways forever? Did we fix the problem or are we in denial?",
+      "type": "Straight up"
+    },
+    {
+      "question": "What's something you know would make you a better person, but you just don't want to do it?",
+      "type": "Make it double"
+    },
+    {
+      "question": "Do you think I care more or less about my reputation than most people? What's your evidence?",
+      "type": "Straight up"
+    },
+    {
+      "question": "Rate my current outfit on a scale of 1-10. Is this better or worse than I usually look? Name a time you wished you could have helped me. What would you have done?",
+      "type": "Straight up"
+    },
+    {
+      "question": "What percentage of the time do you think I'm completely full of shit?",
+      "type": "Straight up"
+    },
+    {
+      "question": "If you were to kill me, how would you do it?",
+      "type": "Make it double"
+    },
+    {
+      "question": "Have you ever caught me in a lie? Did you confront me about it? Why or why not?",
+      "type": "Straight up"
+    },
+    {
+      "question": "What's the most unhygienic thing you've ever seen me do?",
+      "type": "Straight up"
+    },
+    {
+      "question": "Do any of your friends not like me?",
+      "type": "Straight up"
+    },
+    {
+      "question": "Where are we, and what are we doing, in ten years? Are we still on our bullshit?",
+      "type": "Straight up"
+    },
+    {
+      "question": "How have you dishonored your parents?",
+      "type": "Straight up"
+    },
+    {
+      "question": "Have you ever become attracted to someone solely because you thought they might be into you?",
+      "type": "Straight up"
+    },
+    {
+      "question": "What's something I do that you hate?",
+      "type": "Make it double"
+    },
+    {
+      "question": "What's the most unreasonable thing you've ever completely lost your cool over?",
+      "type": "This round's on me"
+    },
+    {
+      "question": "What do you think I need to just let go of? How would my life improve if I did?",
+      "type": "Straight up"
+    },
+    {
+      "question": "What's the most egregious lie you've ever told me?",
+      "type": "Straight up"
+    },
+    {
+      "question": "What's a problem you let go on for too long before you addressed it?",
+      "type": "This round's on me"
+    },
+    {
+      "question": "Have you ever broken off plans with me to be with someone else?",
+      "type": "Straight up"
+    },
+    {
+      "question": "What's a way you wish I took better care of myself? Do you think I ever will?",
+      "type": "Straight up"
+    },
+    {
+      "question": "Do you consider me a name-dropper? What's the last name you heard me drop?",
+      "type": "Straight up"
+    },
+    {
+      "question": "If I died tomorrow, what regrets would you have about our relationship?",
+      "type": "Make it double"
+    },
+    {
+      "question": "What's something I talk about so much that you never need to hear about it again? The topic has been sufficiently covered.",
+      "type": "Straight up"
+    },
+    {
+      "question": "What ethical boundaries are you happy to cross?",
+      "type": "This round's on me"
+    },
+    {
+      "question": "Is there something that's difficult to talk about among any of us here? Should we clear the air right now?",
+      "type": "Straight up"
+    },
+    {
+      "question": "Of the people here, whose job do you think pays the most? Do you think that person should Venmo each of us twenty bucks?",
+      "type": "Straight up"
+    },
+    {
+      "question": "Do you have any secrets you keep from me and me only?",
+      "type": "Straight up"
+    },
+    {
+      "question": "What's the most embarrassing thing you've had to ask Google?",
+      "type": "This round's on me"
+    },
+    {
+      "question": "What's the meanest thing you've ever heard me say about someone else?",
+      "type": "Straight up"
+    },
+    {
+      "question": "What's the biggest lie you've put on a resume? Or seen on someone else's?",
+      "type": "Make it double"
+    },
+    {
+      "question": "What's something you think people should never joke about?",
+      "type": "This round's on me"
+    },
+    {
+      "question": "What's the most fundamental difference between us? Should we try to resolve it, or celebrate it?",
+      "type": "Straight up"
+    },
+    {
+      "question": "Have you ever done something you're not proud of for money? (Outside of an official job.)",
+      "type": "Make it double"
+    },
+    {
+      "question": "What's something you miss about your last serious ex?",
+      "type": "This round's on me"
+    },
+    {
+      "question": "Do you think I have a more dominant or more submissive personality? Do you have any examples?",
+      "type": "Straight up"
+    },
+    {
+      "question": "What have you done while intoxicated that you wouldn't do again?",
+      "type": "Make it double"
+    },
+    {
+      "question": "What's something about me that might seem creepy to others? Should I tone it down?",
+      "type": "Straight up"
+    },
+    {
+      "question": "Do you think I have overachieved or underachieved?",
+      "type": "Straight up"
+    },
+    {
+      "question": "What's an unpopular opinion you will never let go of?",
+      "type": "This round's on me"
+    },
+    {
+      "question": "What am I too picky about?",
+      "type": "Straight up"
+    },
+    {
+      "question": "What thing do I love that you absolutely hate?",
+      "type": "Make it double"
+    },
+    {
+      "question": "Do I tend to be too easy on people, or too harsh?",
+      "type": "Straight up"
+    },
+    {
+      "question": "Do you think I ever stir up drama because I enjoy it? Name an example.",
+      "type": "Straight up"
+    },
+    {
+      "question": "What album title describes our relationship?",
+      "type": "This round's on me"
+    },
+    {
+      "question": "What's the most serious crime you've ever committed?",
+      "type": "This round's on me"
+    },
+    {
+      "question": "What's the disclaimer you give people before they meet me?",
+      "type": "Straight up"
+    },
+    {
+      "question": "Am I more of an unstoppable force or an immovable object?",
+      "type": "Straight up"
+    },
+    {
+      "question": "Who here is most likely to believe in supernatural, occult or mystical stuff?",
+      "type": "Straight up"
+    },
+    {
+      "question": "If you suspected I had been replaced by a bodysnatcher, what question would you ask me to prove my identity?",
+      "type": "Make it double"
+    },
+    {
+      "question": "What's something about which we have such different taste that if I like it, you already know you'll hate it?",
+      "type": "Straight up"
+    }
+  ]
+}

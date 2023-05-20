@@ -1,0 +1,405 @@
+{
+  "name": "Happy Hour",
+  "slug": "happy-hour",
+  "colorTheme": "green",
+  "sortOrder": 10,
+  "data": [
+    {
+      "question": "What's the weirdest compliment you've ever gotten?",
+      "type": "Straight up"
+    },
+    {
+      "question": "I can beam you to any single place in the world that you've never been. You have 24 hours to visit before being beamed home. Where to?",
+      "type": "Make it double"
+    },
+    {
+      "question": "Describe a way I've impacted your life, but that I may not know about.",
+      "type": "Straight up"
+    },
+    {
+      "question": "I'm going to have permanent art deposited into my skin with needles. Pick a design for me. Bonus points if you draw it.",
+      "type": "Make it double"
+    },
+    {
+      "preCondition": "Close your eyes before asking this question:",
+      "question": "What color are my eyes?",
+      "type": "Straight up"
+    },
+    {
+      "question": "What's the biggest fear you've overcome?",
+      "type": "Straight up"
+    },
+    {
+      "question": "We're having a night in! Now's your chance to make me sit and watch that thing you're desperate for me to see. What is it, and what snack should I bring?",
+      "type": "Straight up"
+    },
+    {
+      "question": "Have you bragged about me to other people? What did you say?",
+      "type": "Straight up"
+    },
+    {
+      "question": "If you could instantly gain any skill, what would it be?",
+      "type": "This round's on me"
+    },
+    {
+      "question": "What would you entrust me with above anyone else?",
+      "type": "Straight up"
+    },
+    {
+      "question": "What's the strangest nickname you've ever been given?",
+      "type": "This round's on me"
+    },
+    {
+      "question": "What would be your cheesy, 20-second, game-show-contestant anecdote?",
+      "type": "Make it double"
+    },
+    {
+      "question": "What dish do you slay every time you make it?",
+      "type": "Straight up"
+    },
+    {
+      "question": "What smell takes you back to childhood?",
+      "type": "Straight up"
+    },
+    {
+      "question": "What discontinued item would you give anything to bring back?",
+      "type": "Straight up"
+    },
+    {
+      "question": "When was the last time you laughed so hard you cried?",
+      "type": "Make it double"
+    },
+    {
+      "question": "What is something you know you'll accomplish, no matter how many people tell you you can't?",
+      "type": "Straight up"
+    },
+    {
+      "question": "What is your happiest memory from when you were a single-digit-aged child?",
+      "type": "Straight up"
+    },
+    {
+      "question": "What bad habit have you kicked?",
+      "type": "This round's on me"
+    },
+    {
+      "question": "What are you rooting for me to achieve?",
+      "type": "Straight up"
+    },
+    {
+      "question": "If I couldn't reach an itch, would you do me a solid and scratch it?",
+      "type": "Straight up"
+    },
+    {
+      "question": "What did you do on your very first date ever?",
+      "type": "Make it double"
+    },
+    {
+      "question": "Name a dream of yours that you've made come true.",
+      "type": "Straight up"
+    },
+    {
+      "question": "Look at the person to your left. What's the kindest thing they've ever done for you?",
+      "type": "This round's on me"
+    },
+    {
+      "question": "What positive impact do you think you have on other people?",
+      "type": "Straight up"
+    },
+    {
+      "question": "What's the hold music for your brain?",
+      "type": "Straight up"
+    },
+    {
+      "question": "What's your favorite thing to waste money on?",
+      "type": "Make it double"
+    },
+    {
+      "question": "What's something that completely changed you when you encountered it for the first time?",
+      "type": "Make it double"
+    },
+    {
+      "question": "What's the best compliment you've ever been given?",
+      "type": "This round's on me"
+    },
+    {
+      "question": "We're getting matching jackets for this group. What do they look like, and what do they say on the back?",
+      "type": "Straight up"
+    },
+    {
+      "question": "What's something you're proud of that not many people know about?",
+      "type": "This round's on me"
+    },
+    {
+      "question": "On what totally meaningless topic could you write a whole dissertation?",
+      "type": "Make it double"
+    },
+    {
+      "question": "What album have you spun the most times? Be honest. You can consult your music apps for verification.",
+      "type": "This round's on me"
+    },
+    {
+      "question": "Do you always try to be honest with me, or do you tell me “that haircut looks great” - level white lies to be nice?",
+      "type": "Straight up"
+    },
+    {
+      "question": "What movie or TV character do I most remind you of?",
+      "type": "Straight up"
+    },
+    {
+      "question": "What snack do you turn to in times of emotional turmoil?",
+      "type": "This round's on me"
+    },
+    {
+      "question": "Describe a time you accidentally mortified your parents as a child.",
+      "type": "Straight up"
+    },
+    {
+      "question": "What's the best zinger you've ever come up with on the fly?",
+      "type": "Straight up"
+    },
+    {
+      "question": "Describe your first real kiss. Really set the scene for us.",
+      "type": "This round's on me"
+    },
+    {
+      "question": "What is the most comforting sound in the world?",
+      "type": "Make it double"
+    },
+    {
+      "question": "Have you ever been in love? How do you know?",
+      "type": "Straight up"
+    },
+    {
+      "question": "What's the most considerate present you've ever received? How did you react when you received it?",
+      "type": "Straight up"
+    },
+    {
+      "question": "Tell me your favorite joke. If I laugh, I drink.",
+      "type": "Make it double"
+    },
+    {
+      "question": "Does your hometown have a notoriously spooky landmark? A haunted barn, an abandoned hospital, Old Man Macready's underwater sawmill...?",
+      "type": "Make it double"
+    },
+    {
+      "question": "What's something you think I'm self-conscious about, but that you think I should stop stressing over?",
+      "type": "Straight up"
+    },
+    {
+      "question": "What's the most fun you've ever had with strangers? Tell us the story.",
+      "type": "Straight up"
+    },
+    {
+      "question": "Do you think you are happier - or sadder - than the average person? Why?",
+      "type": "Straight up"
+    },
+    {
+      "question": "If I were a perfume or cologne, what would my top, heart, and base notes be?",
+      "type": "Straight up"
+    },
+    {
+      "question": "What movie title describes your last relationship?",
+      "type": "Make it double"
+    },
+    {
+      "question": "What movie or TV quote hits a little too close to home?",
+      "type": "Straight up"
+    },
+    {
+      "question": "What song is guaranteed to hit you right in the feels, no matter the time or place?",
+      "type": "Make it double"
+    },
+    {
+      "question": "What's something you think people should appreciate more about you?",
+      "type": "This round's on me"
+    },
+    {
+      "question": "If you could plan the perfect night with all of your friends, what would it entail?",
+      "type": "Straight up"
+    },
+    {
+      "question": "Aside from “moist”, what word can't you stand the sound of?",
+      "type": "Straight up"
+    },
+    {
+      "question": "If I offered you $4,300 to call my parents every Sunday for a year and give them an update on my life, would you do it?",
+      "type": "Straight up"
+    },
+    {
+      "question": "Do you have any scars you want to show us? Pick one and tell us the story behind how you got it.",
+      "type": "This round's on me"
+    },
+    {
+      "question": "Of the people here, who is overdue for some kind words? Let's offer some good vibes now.",
+      "type": "Straight up"
+    },
+    {
+      "question": "If there were no barriers to entry, what job do you think you'd be amazing at?",
+      "type": "Straight up"
+    },
+    {
+      "question": "Tell us about a style choice from your past that you're glad stayed in the past.",
+      "type": "Make it double"
+    },
+    {
+      "question": "What's the weirdest way you've ever earned money? How much did you get?",
+      "type": "Straight up"
+    },
+    {
+      "question": "If you could live anyone else's life, whose would it be?",
+      "type": "This round's on me"
+    },
+    {
+      "question": "Have you ever been wildly overpaid? Who paid you and why was it so valuable to them?",
+      "type": "Straight up"
+    },
+    {
+      "question": "What song reminds you of me whenever you hear it?",
+      "type": "Straight up"
+    },
+    {
+      "question": "What makes you so much fun?",
+      "type": "This round's on me"
+    },
+    {
+      "question": "What board game are you positive you could destroy us all at?",
+      "type": "Straight up"
+    },
+    {
+      "question": "What does your ultimate Sunday look like?",
+      "type": "Straight up"
+    },
+    {
+      "question": "What's one healthy thing you do that most other people probably don't? Surely there's something.",
+      "type": "Straight up"
+    },
+    {
+      "question": "What's the most common thing people praise or compliment you for?",
+      "type": "This round's on me"
+    },
+    {
+      "question": "What's the most kickass you've ever felt?",
+      "type": "Straight up"
+    },
+    {
+      "question": "What author's work meant the most to you when you were younger? Do they still?",
+      "type": "Straight up"
+    },
+    {
+      "question": "If you were a Care Bear, what would be on your belly?",
+      "type": "Make it double"
+    },
+    {
+      "question": "If dogs and their owners are supposed to have matching personalities, what type of dog should I get?",
+      "type": "Straight up"
+    },
+    {
+      "question": "What's something that you think is better the second time? A cover of a song, reheated leftovers...?",
+      "type": "This round's on me"
+    },
+    {
+      "question": "Tell me a fact you think I don't know. If I know it, you have to drink.",
+      "type": "Straight up"
+    },
+    {
+      "question": "What's the title of your autobiography? Extra imaginary points if it includes a colon and a subtitle.",
+      "type": "This round's on me"
+    },
+    {
+      "question": "What's something you've done to try to be cool? Did you impress anyone?",
+      "type": "Make it double"
+    },
+    {
+      "question": "Would you trust me to pierce your ear, 80's-sleepover style?",
+      "type": "Straight up"
+    },
+    {
+      "question": "If we were flying somewhere together, who would volunteer to sit in the middle seat?",
+      "type": "Straight up"
+    },
+    {
+      "question": "What song are you most ashamed to admit to me that you love? Reply in song.",
+      "type": "This round's on me"
+    },
+    {
+      "question": "If someone did me wrong, would you: a) comfort me, b) distract me, or c) get revenge for me?",
+      "type": "Straight up"
+    },
+    {
+      "question": "Describe an act of petty protest you waged at work or school.",
+      "type": "Make it double"
+    },
+    {
+      "question": "What's a situation that is always improved by my presence?",
+      "type": "Straight up"
+    },
+    {
+      "question": "What motto would you put on your family crest?",
+      "type": "Straight up"
+    },
+    {
+      "question": "What's the greatest fashion risk you've taken as an adult? How cool did you feel?",
+      "type": "Straight up"
+    },
+    {
+      "question": "What hidden talent do you suspect I have? What makes you think so?",
+      "type": "Straight up"
+    },
+    {
+      "question": "What smell is the most nostalgic for you?",
+      "type": "Straight up"
+    },
+    {
+      "question": "What type of person have you always wanted to date, but never had the chance?",
+      "type": "Straight up"
+    },
+    {
+      "question": "What's the worst date you've ever been on? Tell us all the juicy deets.",
+      "type": "Make it double"
+    },
+    {
+      "question": "What's something everyone said you would regret, but you didn't?",
+      "type": "Straight up"
+    },
+    {
+      "question": "How would Childhood You describe you now? Would that kid like you?",
+      "type": "Straight up"
+    },
+    {
+      "question": "Out of all of us, whose eyes would you like to see the world through for a day?",
+      "type": "Straight up"
+    },
+    {
+      "question": "What did you think you would hate, but ended up loving?",
+      "type": "Make it double"
+    },
+    {
+      "question": "Fill in the blank: I don't care if _________ is for kids, I will still love it until I die. Defend your position.",
+      "type": "Straight up"
+    },
+    {
+      "question": "Tell us about the one that got away.",
+      "type": "This round's on me"
+    },
+    {
+      "question": "What's the bravest thing you've ever done?",
+      "type": "Straight up"
+    },
+    {
+      "question": "How many seconds is the ideal hug? Should we all test your hypothesis?",
+      "type": "Straight up"
+    },
+    {
+      "question": "Pay me a sincere and specific compliment.",
+      "type": "Make it double"
+    },
+    {
+      "question": "What's the first app you open when you wake up in the morning?",
+      "type": "This round's on me"
+    },
+    {
+      "question": "What are you anxious about? Can we reassure you?",
+      "type": "Straight up"
+    }
+  ]
+}

@@ -44,7 +44,7 @@ const IndexPage: React.FC<PageProps> = ({ location, data }: any) => {
 
 export const query = graphql`
   query {
-    allJsonFile {
+    allJsonFile(sort: { sortOrder: ASC }) {
       nodes {
         name
         slug
