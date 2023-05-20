@@ -23,8 +23,9 @@ export const BaseLayout = ({ children }: BaseProps) => {
           py={4}
           display="flex"
           justifyContent="space-between"
+          alignItems="center"
         >
-          <Heading>Truth or Drink</Heading>
+          <Heading as="h1">Truth or Drink</Heading>
           <IconButton
             variant="outline"
             onClick={toggleColorMode}

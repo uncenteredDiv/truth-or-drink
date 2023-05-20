@@ -26,9 +26,14 @@ export const Card = (props: CardProps) => {
       position="relative"
       overflow="hidden"
       bg={useColorModeValue("gray.100", "gray.900")}
+      width="100%"
     >
       <CardHeader display="flex" alignItems="center" pb={4}>
-        <Text fontSize="xl" lineHeight={1} color="gray.300">
+        <Text
+          fontSize="xl"
+          lineHeight={1}
+          color={useColorModeValue("gray.400", "gray.600")}
+        >
           {id} / {count}
         </Text>
         <Text
