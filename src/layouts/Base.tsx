@@ -14,9 +14,10 @@ type BaseProps = {
 };
 export const BaseLayout = ({ children }: BaseProps) => {
   const { colorMode, toggleColorMode } = useColorMode();
+  const date = new Date();
 
   return (
-    <Grid height="100%" gridTemplateRows="auto 1fr">
+    <Grid height="100%" gridTemplateRows="auto 1fr auto">
       <GridItem as="header">
         <Container
           maxW="100%"
@@ -35,6 +36,13 @@ export const BaseLayout = ({ children }: BaseProps) => {
         </Container>
       </GridItem>
       <GridItem>{children}</GridItem>
+      <GridItem textAlign="center" py={2}>
+        &copy; {date.getFullYear()}
+        <span> - made by </span>
+        <a href="https://www.pixelschubser.ch" target="_blank">
+          Pixelschubser
+        </a>
+      </GridItem>
     </Grid>
   );
 };
