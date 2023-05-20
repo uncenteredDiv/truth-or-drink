@@ -41,27 +41,34 @@ const CardTemplate = ({ pageContext }: PageContext) => {
         <Center flex={1}>
           <Card {...pageContext} />
         </Center>
-        <ButtonGroup spacing={4} mt={10} display="flex" justifyContent="center">
-          <IconButton
-            aria-label="Previous Question"
-            icon={<ArrowLeft />}
-            onClick={handlePrevClick}
-            isDisabled={id === 1}
-          />
-          {count > 1 && (
+        {count > 1 && (
+          <ButtonGroup
+            spacing={4}
+            mt={10}
+            display="flex"
+            justifyContent="center"
+          >
             <IconButton
-              aria-label="Random Question"
-              icon={<Shuffle />}
-              onClick={handleRandomClick}
+              aria-label="Previous Question"
+              icon={<ArrowLeft />}
+              onClick={handlePrevClick}
+              isDisabled={id === 1}
             />
-          )}
-          <IconButton
-            aria-label="Next Question"
-            icon={<ArrowRight />}
-            onClick={handleNextClick}
-            isDisabled={id === count}
-          />
-        </ButtonGroup>
+            {count > 2 && (
+              <IconButton
+                aria-label="Random Question"
+                icon={<Shuffle />}
+                onClick={handleRandomClick}
+              />
+            )}
+            <IconButton
+              aria-label="Next Question"
+              icon={<ArrowRight />}
+              onClick={handleNextClick}
+              isDisabled={id === count}
+            />
+          </ButtonGroup>
+        )}
       </Container>
     </BaseLayout>
   );

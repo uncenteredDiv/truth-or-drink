@@ -19,8 +19,6 @@ export const BaseLayout = ({ children, location }: BaseProps) => {
   const { colorMode, toggleColorMode } = useColorMode();
   const date = new Date();
 
-  console.log(location);
-
   return (
     <Grid height="100%" gridTemplateRows="auto 1fr auto">
       <GridItem as="header">
