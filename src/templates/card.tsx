@@ -1,6 +1,6 @@
 import * as React from "react";
 import { navigate } from "gatsby";
-import { Button, ButtonGroup, Center, Container } from "@chakra-ui/react";
+import { ButtonGroup, Center, Container, IconButton } from "@chakra-ui/react";
 import { ArrowLeft, ArrowRight, Shuffle } from "@phosphor-icons/react";
 import { getRandomBetween } from "../utils/getRandomBetween";
 import { Card } from "../component/Card/Card";
@@ -30,42 +30,39 @@ const CardTemplate = ({ pageContext }: PageContext) => {
 
   return (
     <BaseLayout>
-      <Center minHeight="calc(100vh - 72px)" p={6}>
-        <Container maxW="md">
+      <Container
+        maxW="md"
+        py={6}
+        height="100%"
+        display="flex"
+        flexDirection="column"
+        justifyContent="space-between"
+      >
+        <Center flex={1}>
           <Card {...pageContext} />
-          <ButtonGroup
-            spacing={4}
-            mt={10}
-            display="flex"
-            justifyContent="center"
-          >
-            <Button
-              colorScheme="gray"
-              onClick={handlePrevClick}
-              isDisabled={id === 1}
-              leftIcon={<ArrowLeft />}
-            >
-              Previous
-            </Button>
-            <Button
-              colorScheme="gray"
+        </Center>
+        <ButtonGroup spacing={4} mt={10} display="flex" justifyContent="center">
+          <IconButton
+            aria-label="Previous Question"
+            icon={<ArrowLeft />}
+            onClick={handlePrevClick}
+            isDisabled={id === 1}
+          />
+          {count > 1 && (
+            <IconButton
+              aria-label="Random Question"
+              icon={<Shuffle />}
               onClick={handleRandomClick}
-              isDisabled={count === 1}
-              leftIcon={<Shuffle />}
-            >
-              Random
-            </Button>
-            <Button
-              colorScheme="gray"
-              onClick={handleNextClick}
-              isDisabled={id === count}
-              rightIcon={<ArrowRight />}
-            >
-              Next
-            </Button>
-          </ButtonGroup>
-        </Container>
-      </Center>
+            />
+          )}
+          <IconButton
+            aria-label="Next Question"
+            icon={<ArrowRight />}
+            onClick={handleNextClick}
+            isDisabled={id === count}
+          />
+        </ButtonGroup>
+      </Container>
     </BaseLayout>
   );
 };
