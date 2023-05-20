@@ -8,6 +8,7 @@ import {
   GridItem,
   Heading,
   IconButton,
+  Text,
   useColorMode,
 } from "@chakra-ui/react";
 import { Moon, SunDim, X } from "@phosphor-icons/react";
@@ -51,11 +52,13 @@ export const BaseLayout = ({ children, location }: BaseProps) => {
       </GridItem>
       <GridItem>{children}</GridItem>
       <GridItem textAlign="center" py={2}>
-        &copy; {date.getFullYear()}
-        <span> - made by </span>
-        <ChakraLink href="https://www.pixelschubser.ch" isExternal>
-          Pixelschubser
-        </ChakraLink>
+        <Text fontSize="sm">
+          &copy; {date.getFullYear()}
+          <span> - made by </span>
+          <ChakraLink href="https://www.pixelschubser.ch" isExternal>
+            Pixelschubser
+          </ChakraLink>
+        </Text>
       </GridItem>
     </Grid>
   );
