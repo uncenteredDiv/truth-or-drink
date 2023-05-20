@@ -10,9 +10,9 @@ import {
 } from "@chakra-ui/react";
 import { BaseLayout } from "../layouts/Base";
 
-const IndexPage: React.FC<PageProps> = ({ data }: any) => {
+const IndexPage: React.FC<PageProps> = ({ location, data }: any) => {
   return (
-    <BaseLayout>
+    <BaseLayout location={location}>
       <Container centerContent height="100%">
         <Stack
           spacing={4}
