@@ -3,6 +3,7 @@ import { Link } from "gatsby";
 import {
   ButtonGroup,
   Container,
+  Link as ChakraLink,
   Grid,
   GridItem,
   Heading,
@@ -52,9 +53,9 @@ export const BaseLayout = ({ children, location }: BaseProps) => {
       <GridItem textAlign="center" py={2}>
         &copy; {date.getFullYear()}
         <span> - made by </span>
-        <a href="https://www.pixelschubser.ch" target="_blank">
+        <ChakraLink href="https://www.pixelschubser.ch" isExternal>
           Pixelschubser
-        </a>
+        </ChakraLink>
       </GridItem>
     </Grid>
   );

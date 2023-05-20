@@ -15,7 +15,7 @@ const IndexPage: React.FC<PageProps> = ({ location, data }: any) => {
     <BaseLayout location={location}>
       <Container centerContent height="100%">
         <Stack
-          spacing={4}
+          spacing={8}
           flexDirection="column"
           justifyContent="center"
           alignItems="center"
